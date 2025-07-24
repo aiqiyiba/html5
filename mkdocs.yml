@@ -1,6 +1,6 @@
-site_name: 果冻传媒www网站入口
-site_author: 麻豆剧果冻传媒精品网站
-site_description: 果冻传媒精品推荐在线
+site_name: 祼女直播-高品质美女在线APP视频互动社区
+site_author: 祼女直播APP
+site_description: 祼女直播平台聚焦中国原创视频，包含最新官网地址、视频，注册、登陆、登录、入口、全站、网站、网页、网址、手机版、app、下载，一个美女如云网站。
 theme:
   name: readthedocs
 nav:
@@ -8,8 +8,3 @@ nav:
   - About: about.md
   - Features: features.md
   - Contact: contact.md
-theme:
-  name: material
-nav:
-  - Home: index.md
-  - Content: content.md
